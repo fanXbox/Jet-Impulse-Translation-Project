@@ -1,0 +1,3 @@
+Jasmine:
+Nice@work,
+%player_name_%!

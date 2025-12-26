@@ -1,0 +1,6 @@
+Delight:
+You've　gotten　too
+far　away　from　Jasmine.
+We'll　suspend　the
+operation　for　now
+and　return　to　base.
