@@ -1,0 +1,5 @@
+Jasmine:
+The@situation@is
+over!
+Great@job,
+%player_name_%.

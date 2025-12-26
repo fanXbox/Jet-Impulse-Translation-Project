@@ -1,0 +1,5 @@
+Jasmine:
+Ground@targets
+confirmed,
+commence@the
+attack.
